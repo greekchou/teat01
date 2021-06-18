@@ -1,2 +1,2 @@
 # teat01
-This is the beginning
+This is a test
